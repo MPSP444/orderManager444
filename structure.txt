@@ -1,0 +1,269 @@
+M:\MyProject\Программы\myMeneger\order_manager\.idea
+M:\MyProject\Программы\myMeneger\order_manager\column_settings.json
+M:\MyProject\Программы\myMeneger\order_manager\config.py
+M:\MyProject\Программы\myMeneger\order_manager\contract_templates.json
+M:\MyProject\Программы\myMeneger\order_manager\core
+M:\MyProject\Программы\myMeneger\order_manager\database
+M:\MyProject\Программы\myMeneger\order_manager\DejaVuSans.ttf
+M:\MyProject\Программы\myMeneger\order_manager\financial-advisor_8912763.ico
+M:\MyProject\Программы\myMeneger\order_manager\firebase_init_contacts.py
+M:\MyProject\Программы\myMeneger\order_manager\last_user.txt
+M:\MyProject\Программы\myMeneger\order_manager\logs
+M:\MyProject\Программы\myMeneger\order_manager\main.py
+M:\MyProject\Программы\myMeneger\order_manager\message_templates.json
+M:\MyProject\Программы\myMeneger\order_manager\mpsp_reviews.log
+M:\MyProject\Программы\myMeneger\order_manager\orders.db
+M:\MyProject\Программы\myMeneger\order_manager\paths_settings.json
+M:\MyProject\Программы\myMeneger\order_manager\requirements.txt
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager.log
+M:\MyProject\Программы\myMeneger\order_manager\services_data.json
+M:\MyProject\Программы\myMeneger\order_manager\structure.txt
+M:\MyProject\Программы\myMeneger\order_manager\ui
+M:\MyProject\Программы\myMeneger\order_manager\users.db
+M:\MyProject\Программы\myMeneger\order_manager\utils
+M:\MyProject\Программы\myMeneger\order_manager\Образцы
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов
+M:\MyProject\Программы\myMeneger\order_manager\.idea\.gitignore
+M:\MyProject\Программы\myMeneger\order_manager\.idea\inspectionProfiles
+M:\MyProject\Программы\myMeneger\order_manager\.idea\misc.xml
+M:\MyProject\Программы\myMeneger\order_manager\.idea\modules.xml
+M:\MyProject\Программы\myMeneger\order_manager\.idea\order_manager.iml
+M:\MyProject\Программы\myMeneger\order_manager\.idea\workspace.xml
+M:\MyProject\Программы\myMeneger\order_manager\.idea\inspectionProfiles\profiles_settings.xml
+M:\MyProject\Программы\myMeneger\order_manager\core\database.py
+M:\MyProject\Программы\myMeneger\order_manager\core\database_manager.py
+M:\MyProject\Программы\myMeneger\order_manager\core\excel_writer.py
+M:\MyProject\Программы\myMeneger\order_manager\core\path_settings.py
+M:\MyProject\Программы\myMeneger\order_manager\core\utils.py
+M:\MyProject\Программы\myMeneger\order_manager\core\__init__.py
+M:\MyProject\Программы\myMeneger\order_manager\core\__pycache__
+M:\MyProject\Программы\myMeneger\order_manager\core\__pycache__\database.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\core\__pycache__\database_manager.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\core\__pycache__\excel_writer.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\core\__pycache__\utils.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\core\__pycache__\__init__.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\database\db.py
+M:\MyProject\Программы\myMeneger\order_manager\database\models.py
+M:\MyProject\Программы\myMeneger\order_manager\database\__init__.py
+M:\MyProject\Программы\myMeneger\order_manager\database\__pycache__
+M:\MyProject\Программы\myMeneger\order_manager\database\__pycache__\db.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\database\__pycache__\models.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\database\__pycache__\__init__.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\cli
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\db_connector.py
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\main.py
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\review_manager.py
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\ui
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\__pycache__
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\cli\cli_interface.py
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\cli\__init__.py
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\ui\reviews_window.py
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\ui\__init__.py
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\ui\__pycache__
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\ui\__pycache__\reviews_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\ui\__pycache__\__init__.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\__pycache__\db_connector.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\__pycache__\main.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\reviews_manager\__pycache__\review_manager.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\admin_confirm_dialog.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\buttons.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\components
+M:\MyProject\Программы\myMeneger\order_manager\ui\contacts
+M:\MyProject\Программы\myMeneger\order_manager\ui\login_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\message_styles.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\message_utils.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\optimization
+M:\MyProject\Программы\myMeneger\order_manager\ui\orders.db
+M:\MyProject\Программы\myMeneger\order_manager\ui\registration_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\Styles
+M:\MyProject\Программы\myMeneger\order_manager\ui\styles.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\utils.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows
+M:\MyProject\Программы\myMeneger\order_manager\ui\__init__.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\__pycache__
+M:\MyProject\Программы\myMeneger\order_manager\ui\Образцы
+M:\MyProject\Программы\myMeneger\order_manager\ui\components\kanban_board.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\components\kanban_column.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\components\order_card.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\components\virtualized_column.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\components\__init__.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\components\__pycache__
+M:\MyProject\Программы\myMeneger\order_manager\ui\components\__pycache__\kanban_board.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\components\__pycache__\kanban_column.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\components\__pycache__\order_card.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\components\__pycache__\virtualized_column.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\components\__pycache__\__init__.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\contacts\contacts_management_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\contacts\contacts_manager_integration.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\contacts\contacts_module_init.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\contacts\contacts_reminders.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\contacts\__init__.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\contacts\__pycache__
+M:\MyProject\Программы\myMeneger\order_manager\ui\contacts\__pycache__\contacts_management_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\contacts\__pycache__\contacts_manager_integration.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\contacts\__pycache__\contacts_module_init.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\contacts\__pycache__\contacts_reminders.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\contacts\__pycache__\__init__.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\optimization\optimization_manager.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\optimization\__pycache__
+M:\MyProject\Программы\myMeneger\order_manager\ui\optimization\__pycache__\optimization_manager.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\Styles\kanban_styles.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\Styles\__pycache__
+M:\MyProject\Программы\myMeneger\order_manager\ui\Styles\__pycache__\kanban_styles.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\client_detail_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\client_info_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\client_statistics_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\column_settings.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\detailed_info_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\dialog_styles.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\discount_manager.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\excel_manager.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\excel_preview.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\help_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\import_reviews.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\integration_example.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\kanban_board.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\kanban_styles.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\loyalty_system.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\main_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\mass_messaging.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\new_order_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\order_info_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\path_manager.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\path_settings.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\payment_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\payment_window_integration.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\reminder_dialog.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\settings_dialog.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\state_manager.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\statistics_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\status_change_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\template_selector.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\themes.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\window_manager.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__init__.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\Образцы
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\analytics_tab.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\contracts_tab.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\main_catalog_window.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\models
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\services_tab.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\widgets
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\__init__.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\__pycache__
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\models\client_analytics.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\models\contract_template.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\models\service_info.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\widgets\client_card.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\widgets\service_details.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\widgets\service_tree.py
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\__pycache__\analytics_tab.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\__pycache__\contracts_tab.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\__pycache__\main_catalog_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\__pycache__\services_tab.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\service_catalog\__pycache__\__init__.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\client_detail_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\client_info_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\client_statistics_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\column_settings.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\detailed_info_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\dialog_styles.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\discount_manager.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\excel_manager.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\excel_preview.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\help_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\kanban_board.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\kanban_styles.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\loyalty_system.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\main_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\mass_messaging.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\new_order_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\order_info_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\path_manager.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\path_settings.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\payment_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\payment_window_integration.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\reminder_dialog.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\settings_dialog.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\state_manager.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\statistics_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\status_change_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\template_selector.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\themes.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\window_manager.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\windows\__pycache__\__init__.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\__pycache__\admin_confirm_dialog.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\__pycache__\buttons.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\__pycache__\login_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\__pycache__\message_styles.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\__pycache__\message_utils.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\__pycache__\registration_window.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\__pycache__\styles.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\__pycache__\utils.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\ui\__pycache__\__init__.cpython-313.pyc
+M:\MyProject\Программы\myMeneger\order_manager\utils\config.py
+M:\MyProject\Программы\myMeneger\order_manager\utils\__init__.py
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Дневник-отчет студента_УФА.docx
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Образец  Курсовой работы для группы 32 21-134.docx
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Образец Контроллинг логистических систем 2701.docx
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Образец Курсача универсал Информатика.docx
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Образец Курсача универсал.docx
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Образец Курсача.docx
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Образец курсовой работы по ФИЗИКЕ.docx
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Образец курсовой работы с рамками.docx
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Образец лабороторной работы с рамками.docx
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Образец отчета по практике ИИ.docx
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Образец Экономика Казань Курсовой работы 2512.docx
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Отчет по практике Образец ТСИД.docx
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Практика 3 Пример образец.pdf
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Презентации
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\путевка_Хатдыева_Гулбадам.docx
+M:\MyProject\Программы\myMeneger\order_manager\Образцы\Презентации\Проект презентация.pptx
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\contact-form.js
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\index.html
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\jsonbin-api.js
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\jsonbin-diagnostic.html
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\submit-review.html
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\test-reviews.html
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\Новый
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\Профессиональный  эффектный логотип для (1).png
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\admin
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\api
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\assets
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\includes
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\index.html
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\submit-review.html
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\admin\admin.css
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\admin\admin.js
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\admin\dashboard.php
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\admin\database_schema.sql
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\admin\index.php
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\admin\moderate.php
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\api\contact_api.php
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\api\reviews_api.php
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\assets\css
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\assets\img
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\assets\js
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\assets\css\main.css
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\assets\css\responsive.css
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\assets\js\forms.js
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\assets\js\main.js
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\assets\js\reviews.js
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\includes\config.php
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\includes\footer.php
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\includes\functions.php
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\new\mpsp-reviews\includes\header.php
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\Новый\config.php
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\Новый\contact-form.js
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\Новый\contact_api.php
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\Новый\db_connect.php
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\Новый\index.html
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\Новый\reviews.js
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\Новый\reviews_api.php
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\Новый\submit-review.html
+M:\MyProject\Программы\myMeneger\order_manager\Сайт для отзывов\Новый\submit-review.js
